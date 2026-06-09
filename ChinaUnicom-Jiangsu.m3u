@@ -141,10 +141,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000128@JSBC
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/nanjingshibashenghuo.png" group-title="南京频道",南京十八生活
 http://112.86.202.37:8112/JSBC_iptv/C10000129@JSBC
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/nanjingshaoer.png" group-title="南京频道",南京少儿
-http://112.86.202.37:8112/JSBC_iptv/C10000156@JSBC
-#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/nanjingyingshi.png" group-title="南京频道",南京影视
-http://112.86.202.37:8112/JSBC_iptv/C10000153@JSBC
 #EXTINF:-1 tvg-name="南京教育科技" tvg-logo="https://gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/nanjingjiaoke.png" group-title="南京频道",南京教育科技
 http://112.86.202.37:8112/JSBC_iptv/C10000122@JSBC
 #EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/nanjingwenlvjilu.png" group-title="南京频道",南京文旅纪录
