@@ -133,8 +133,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000227@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/jiangsuguoji.png" group-title="江苏频道",江苏国际
 http://112.86.202.37:8112/JSBC_iptv/C10000032@JSBC
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/caifutianxia.png" group-title="江苏频道",财富天下
-http://112.86.202.37:8112/JSBC_iptv/C10000099@JSBC
 #EXTINF:-1 tvg-name="好享购物" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/haoxianggouwu.png" group-title="江苏频道",好享购物
 http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/nanjingxinwenzonghe.png" group-title="南京频道",南京新闻综合
@@ -147,12 +145,10 @@ http://112.86.202.37:8112/JSBC_iptv/C10000122@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000154@JSBC
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/youmankatong.png" group-title="卫视精品",优漫卡通
 http://112.86.202.37:8112/JSBC_iptv/C10000228@JSBC
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/jinyingjishi.png" group-title="卫视精品",金鹰纪实
-http://112.86.202.37:8112/JSBC_iptv/C10000187@JSBC
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/jinyingkatong.png" group-title="卫视精品",金鹰卡通
 http://112.86.202.37:8112/JSBC_iptv/C10000216@JSBC
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/cha.png" group-title="卫视精品",茶频道
-http://112.86.202.37:8112/JSBC_iptv/C10000160@JSBC
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/jinyingjishi.png" group-title="卫视精品",金鹰纪实
+http://112.86.202.37:8112/JSBC_iptv/C10000187@JSBC
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/kuailechuidiao.png" group-title="卫视精品",快乐垂钓
 http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://v4.gh-proxy.org/https://github.com/bncolin/entertainment/blob/main/icon/henanliyuan.png" group-title="卫视精品",梨园频道
